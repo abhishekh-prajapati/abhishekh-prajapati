@@ -1,68 +1,109 @@
-<!-- ===== HERO ===== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abhishekh+Prajapati;Developer+%7C+UI%2FUX+Designer+%7C+Tech+Enthusiast;React+%26+Data+Science+Learner;Building+Systems+That+Simplify+Human+Life" />
-</h1>
+# Abhishekh Prajapati
 
-<p align="center">
-  <b>Computer Science Undergraduate • Developer • UI/UX Designer</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekh-prajapati&label=Profile%20Views&color=0ea5e9&style=flat" />
-</p>
+**Computer Science Undergraduate | Developer | UI/UX Enthusiast**
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Bachelor of Computer Science undergraduate** with a strong interest in **software development, UI/UX design, and system-oriented problem solving**.
+I am a **Bachelor of Computer Science undergraduate** with interests in **software development, UI/UX design, and system-oriented problem solving**.
 
-I am currently learning and building projects using **React.js** and **Data Science tools**, focusing on applications that improve usability and simplify real-world workflows.
-
-I enjoy connecting **technical systems with human-centric design**, ensuring that what I build is not only functional, but also intuitive and practical.
+I focus on building **practical, user-centered applications** using **React.js** and **Python**, with an emphasis on clean interfaces, structured logic, and real-world usability.
 
 ---
 
 ## 🎯 Current Focus
 
-- Building frontend applications with **React.js**
-- Working on **data-driven features** using Python
-- Designing clean and usable interfaces
-- Developing complete, deployable projects
-- Improving logical thinking and system design
+- Frontend development with **React.js**
+- Data-driven features using **Python**
+- UI/UX design and usability improvement
+- Building complete, deployable projects
+- Strengthening system design and problem-solving skills
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming & Development
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,php" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,vue&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,vue" />
 </p>
 
-### 🧠 Data & Backend
+### 🧠 Backend & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" />
 </p>
 
-### 🎨 UI / UX & Design Tools
+### 🎨 UI / UX & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva,adobe&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,canva,adobe" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel" />
 </p>
 
 ---
 
-## 🚀 What I Like to Build
+## 🚀 What I Build
+
+- User-friendly web applications  
+- System-oriented software solutions  
+- Clean and responsive interfaces  
+- Data-supported features  
+- Projects that balance logic and design  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 React & UI Project
+Frontend application emphasizing UI/UX and component-based architecture.
+
+- Responsive layout
+- Reusable components
+- Practical user flows
+
+🔗 Live Demo: Add link  
+📂 Repository: Add link
+
+---
+
+### 🔹 Python / Data Project
+Data-focused project working with structured datasets.
+
+- Data processing
+- Analysis workflow
+- Meaningful outputs
+
+📂 Repository: Add link
+
+---
+
+### 🔹 System-Oriented Mini Project
+Logic-based solution addressing a defined real-world problem.
+
+- Clear requirements
+- Structured logic
+- Edge-case handling
+
+📂 Repository: Add link
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -70,14 +111,7 @@ I enjoy connecting **technical systems with human-centric design**, ensuring tha
   <a href="https://www.linkedin.com/in/abhishekh-prajapati">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:abhishekhprajapati61@gmail.com">
+  <a href="mailto:abhishekhprajapati9@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-```txt
-• User-friendly web applications
-• System-oriented solutions for daily problems
-• Clean and responsive interfaces
-• Data-supported features
-• Projects that balance logic and design
