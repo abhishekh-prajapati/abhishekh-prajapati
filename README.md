@@ -1,102 +1,55 @@
-<h1 align="center">Hi, I'm Abhishekh Prajapati 👋</h1>
-<p align="center">
-  Computer Science Undergraduate • Frontend & Data-Oriented Developer
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a **Bachelor of Computer Science undergraduate** focused on building practical, system-oriented applications using **React.js** and **Python**.
-
-I prioritize:
-- Clean and maintainable code
-- Real-world problem solving
-- Complete, deployable projects
-- Logical system design over superficial features
-
-Currently improving my skills in frontend architecture, data handling, and API-based integrations.
-
----
-
-## 🛠 Tech Stack
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-</p>
-
-### 🧠 Backend / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,firebase,mysql,sqlite" />
-</p>
-
-### 🧰 Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🚀 React-Based Application
-A complete frontend project demonstrating component-based design, state handling, and responsive UI.
-
-**Highlights:**
-- Reusable React components  
-- Structured folder architecture  
-- Clean UI & UX  
-
-🔗 Live Demo: _Add link_  
-📂 Repository: _Add link_
-
----
-
-### 📊 Data Analysis Project (Python)
-A data-driven project using real datasets to extract insights.
-
-**Highlights:**
-- Pandas & NumPy workflows  
-- Data cleaning and transformation  
-- Explained outputs  
-
-📂 Repository: _Add link_
-
----
-
-### ⚙️ System-Oriented Mini Project
-A logic-focused project solving a defined problem with scalable structure.
-
-**Highlights:**
-- Clear problem definition  
-- Edge case handling  
-- Structured solution approach  
-
-📂 Repository: _Add link_
-
----
-
-## 📈 GitHub Stats
+<!-- ===== HERO SECTION ===== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhishekh+Prajapati;Frontend+%26+Data-Oriented+Developer;Building+Practical+Systems+with+Code" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekh-prajapati&label=Profile%20Views&color=0ea5e9&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekh-prajapati&theme=tokyonight" />
+  Computer Science Undergraduate • React & Python • System-Oriented Thinker
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🧠 About Me
 
+I am a **Computer Science undergraduate** focused on building **modern, practical applications** using **React.js** and **Python**.
+
+I approach development with a system mindset:
+- Structure before styling  
+- Logic before libraries  
+- Maintainability over shortcuts  
+
+My work centers on real-world use cases, clean UI, and code that can scale beyond demos.
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abhishekhprajapati9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" />
 </p>
 
+### Backend / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,firebase,mysql,sqlite&theme=dark" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+```txt
+• Component-based frontend systems
+• Data-driven features and dashboards
+• API-integrated applications
+• Clean, responsive user interfaces
+• Projects designed to be deployed, not discarded
