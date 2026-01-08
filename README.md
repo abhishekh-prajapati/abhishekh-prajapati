@@ -1,89 +1,102 @@
-# Abhishekh Prajapati
+<h1 align="center">Hi, I'm Abhishekh Prajapati 👋</h1>
+<p align="center">
+  Computer Science Undergraduate • Frontend & Data-Oriented Developer
+</p>
 
-## 👋 About Me
+---
 
-I am a Bachelor of Computer Science undergraduate, currently focused on building practical applications using **React.js** and **Python**.
+## 👨‍💻 About Me
 
-My work emphasizes clean UI, structured logic, and system-oriented solutions that address real-world problems. I prefer building complete, deployable projects over isolated code samples.
+I am a **Bachelor of Computer Science undergraduate** focused on building practical, system-oriented applications using **React.js** and **Python**.
 
-Current focus areas:
-- Frontend application architecture with React
-- Data handling and analysis using Python
-- Integrating APIs and backend services
-- Writing maintainable, readable code
+I prioritize:
+- Clean and maintainable code
+- Real-world problem solving
+- Complete, deployable projects
+- Logical system design over superficial features
+
+Currently improving my skills in frontend architecture, data handling, and API-based integrations.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-- JavaScript (ES6+)
-- React.js
-- HTML5
-- CSS3
-- Vite
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
 
-### Backend / Data
-- Python
-- Firebase
-- MySQL
-- SQLite
+### 🧠 Backend / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,firebase,mysql,sqlite" />
+</p>
 
-### Tools & Workflow
-- Git
-- GitHub
-- Figma
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-> (Pin these repositories on your GitHub profile)
+### 🚀 React-Based Application
+A complete frontend project demonstrating component-based design, state handling, and responsive UI.
 
-### 🔹 React-Based Application
-A complete frontend application demonstrating component-based architecture, state management, and responsive UI design.
-
-**Key aspects:**
-- Modular React components
-- Clean UI and UX
-- Deployed build
+**Highlights:**
+- Reusable React components  
+- Structured folder architecture  
+- Clean UI & UX  
 
 🔗 Live Demo: _Add link_  
 📂 Repository: _Add link_
 
 ---
 
-### 🔹 Data Analysis Project (Python)
-A data-focused project using real datasets to perform analysis and generate insights.
+### 📊 Data Analysis Project (Python)
+A data-driven project using real datasets to extract insights.
 
-**Key aspects:**
-- Pandas and NumPy for data processing
-- Clear data workflow
-- Explained outputs
-
-📂 Repository: _Add link_
-
----
-
-### 🔹 System-Oriented Mini Project
-A problem-solving project focused on logic, structure, and edge cases rather than UI alone.
-
-**Key aspects:**
-- Clear problem definition
-- Structured solution
-- Scalable logic
+**Highlights:**
+- Pandas & NumPy workflows  
+- Data cleaning and transformation  
+- Explained outputs  
 
 📂 Repository: _Add link_
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ System-Oriented Mini Project
+A logic-focused project solving a defined problem with scalable structure.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true&hide_title=true)
+**Highlights:**
+- Clear problem definition  
+- Edge case handling  
+- Structured solution approach  
+
+📂 Repository: _Add link_
 
 ---
 
-## 🔗 Connect
+## 📈 GitHub Stats
 
-- LinkedIn: _Add link_
-- Email: abhishekhprajapati9@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekh-prajapati&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abhishekhprajapati9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
