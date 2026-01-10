@@ -100,7 +100,7 @@ Logic-based solution addressing a defined real-world problem.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true" />
+<img src="https://streak-stats.demolab.com?user=abhishekh-prajapati&theme=default" />
 </p>
 
 ---
