@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Bachelor of Computer Science undergraduate** with interests in **software development, UI/UX design, and system-oriented problem solving**.
+I am a **Bachelor of Computer Science undergraduate** focused on **software development, UI/UX design, and system-oriented problem solving**.
 
-I focus on building **practical, user-centered applications** using **React.js** and **Python**, with an emphasis on clean interfaces, structured logic, and real-world usability.
+I build **practical, user-centered applications** using **React.js** and **Python**, prioritizing clean interfaces, structured logic, and real-world usability.
 
 ---
 
@@ -16,9 +16,9 @@ I focus on building **practical, user-centered applications** using **React.js**
 
 - Frontend development with **React.js**
 - Data-driven features using **Python**
-- UI/UX design and usability improvement
-- Building complete, deployable projects
-- Strengthening system design and problem-solving skills
+- UI/UX design and usability
+- Building deployable projects
+- Strengthening system design fundamentals
 
 ---
 
@@ -55,9 +55,9 @@ I focus on building **practical, user-centered applications** using **React.js**
 
 - User-friendly web applications  
 - System-oriented software solutions  
-- Clean and responsive interfaces  
+- Clean, responsive interfaces  
 - Data-supported features  
-- Projects that balance logic and design  
+- Logic-first, design-balanced projects  
 
 ---
 
@@ -70,8 +70,8 @@ Frontend application emphasizing UI/UX and component-based architecture.
 - Reusable components
 - Practical user flows
 
-🔗 Live Demo: Add link  
-📂 Repository: Add link
+🔗 Live Demo: _add link_  
+📂 Repository: _add link_
 
 ---
 
@@ -82,7 +82,7 @@ Data-focused project working with structured datasets.
 - Analysis workflow
 - Meaningful outputs
 
-📂 Repository: Add link
+📂 Repository: _add link_
 
 ---
 
@@ -93,15 +93,37 @@ Logic-based solution addressing a defined real-world problem.
 - Structured logic
 - Edge-case handling
 
-📂 Repository: Add link
+📂 Repository: _add link_
 
 ---
-## 🔥 GitHub Streak
 
+## 🔥 GitHub Activity
+
+> These widgets **only work if your username is exact and you have public contributions**.
+
+### 🔹 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekh-prajapati" />
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_EXACT_GITHUB_USERNAME&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
+### 🔹 GitHub Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_GITHUB_USERNAME&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+### 🔹 Top Languages
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_GITHUB_USERNAME&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
