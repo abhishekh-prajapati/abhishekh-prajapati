@@ -101,31 +101,17 @@ Logic-based solution addressing a defined real-world problem.
 
 > These widgets **only work if your username is exact and you have public contributions**.
 
+## 🔥 GitHub Activity
+
 ### 🔹 Contribution Streak
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_EXACT_GITHUB_USERNAME&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=abhishekh-prajapati)
 
 ### 🔹 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_GITHUB_USERNAME&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true)
 
 ### 🔹 Top Languages
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_GITHUB_USERNAME&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekh-prajapati&layout=compact)
 
----
 
 ## 🌐 Connect With Me
 
