@@ -99,10 +99,6 @@ Logic-based solution addressing a defined real-world problem.
 
 ## 🔥 GitHub Activity
 
-> These widgets **only work if your username is exact and you have public contributions**.
-
-## 🔥 GitHub Activity
-
 ### 🔹 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhishekh-prajapati)
 
