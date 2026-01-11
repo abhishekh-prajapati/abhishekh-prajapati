@@ -102,13 +102,6 @@ Logic-based solution addressing a defined real-world problem.
 ### 🔹 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhishekh-prajapati)
 
-### 🔹 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true)
-
-### 🔹 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekh-prajapati&layout=compact)
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
