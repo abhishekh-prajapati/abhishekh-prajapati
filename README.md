@@ -70,8 +70,8 @@ Frontend application emphasizing UI/UX and component-based architecture.
 - Reusable components
 - Practical user flows
 
-🔗 Live Demo: _add link_  
-📂 Repository: _add link_
+🔗 Live Demo: 
+📂 Repository:[ _add link_](https://github.com/abhishekh-prajapati/contact_us-React.js)
 
 ---
 
@@ -82,7 +82,7 @@ Data-focused project working with structured datasets.
 - Analysis workflow
 - Meaningful outputs
 
-📂 Repository: _add link_
+📂 Repository: [_add link_](https://github.com/abhishekh-prajapati/Data_Science_Custom_segmentation_-_Recommendation_System)
 
 ---
 
@@ -93,7 +93,7 @@ Logic-based solution addressing a defined real-world problem.
 - Structured logic
 - Edge-case handling
 
-📂 Repository: _add link_
+📂 Repository: [_add link_](https://github.com/abhishekh-prajapati/Js-projects)
 
 ---
 
