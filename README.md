@@ -14,11 +14,11 @@ I build **practical, user-centered applications** using **React.js** and **Pytho
 
 ## 🎯 Current Focus
 
-- Frontend development with **React.js**
-- Data-driven features using **Python**
-- UI/UX design and usability
-- Building deployable projects
-- Strengthening system design fundamentals
+- Frontend development with **React.js**.
+- Data-driven features using **Python**.
+- UI/UX design and usability.
+- Building deployable projects.
+- Strengthening system design fundamentals.
 
 ---
 
