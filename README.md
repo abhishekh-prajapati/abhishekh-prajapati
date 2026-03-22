@@ -1,6 +1,6 @@
 # Abhishekh Prajapati
 
-**Computer Science Undergraduate | Developer | UI/UX Enthusiast**
+**Computer Science Undergraduate | Developer | Creating Real time systems and software**
 
 ---
 
