@@ -1,45 +1,59 @@
+<!-- Profile README — abhishekh-prajapati -->
+
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════╗
-║  Abhishekh Prajapati  //  CS Undergrad · Developer   ║
-╚══════════════════════════════════════════════════════╝
+ █████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗██╗  ██╗
+██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝██║  ██║
+███████║██████╔╝███████║██║███████╗███████║█████╗  █████╔╝ ███████║
+██╔══██║██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗ ██╔══██║
+██║  ██║██████╔╝██║  ██║██║███████║██║  ██║███████╗██║  ██╗██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
+
+`CS Undergrad` &nbsp;·&nbsp; `React.js` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `UI/UX` &nbsp;·&nbsp; `System Design`
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abhishekh-prajapati&color=58a6ff&style=flat-square&label=profile+views)](https://github.com/abhishekh-prajapati)
+
+</div>
+
+---
 
 ```bash
 $ whoami
-> Building real-time systems · React.js · Python · UI/UX
-> Location: India  |  Status: open to collabs & internships
+> abhishekh-prajapati
+> CS Undergraduate · Developer · Building real-time systems and software that ships
 ```
-
----
-
-## `> about.txt`
-
-CS undergrad focused on **software development, UI/UX design, and system-oriented problem solving**.  
-I build practical, user-centered applications — clean interfaces, structured logic, real-world usability.
 
 ```yaml
-currently:  strengthening system design · building deployable projects
-learning:   advanced React patterns · data pipelines · DSA
-open_to:    internships · open source · collaborative builds
+# about.yaml
+status:     "actively building"
+location:   "India 🇮🇳"
+focus:
+  - Frontend development with React.js
+  - Data-driven features using Python
+  - UI/UX design and usability
+  - Strengthening system design fundamentals
+looking_for: "collaborations, projects, and opportunities"
 ```
 
 ---
 
-## `> stack.sh`
+## ⚡ Tech Stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -47,70 +61,116 @@ open_to:    internships · open source · collaborative builds
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Design & Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
-## `> projects/`
+## 🚀 Featured Projects
 
 ```
-.
-├── contact_us-React.js      →  UI/UX · component architecture · responsive layout
-├── Data_Science_Custom...   →  segmentation · recommendation · data pipeline
-└── Js-projects              →  vanilla JS · DOM · logic-first mini builds
+projects/
+├── python_projects/        → Python utilities, scripts & mini-apps
+├── Python_DSA/             → Data structures & algorithms, interview-ready
+├── Hackprep/               → Hackathon toolkit & challenge solutions
+└── Akhilesh-Mechanics/     → Real-world client site (React.js)
 ```
 
-**[`contact_us · React UI`](https://github.com/abhishekh-prajapati/contact_us-React.js)**  
-Frontend application built with React. Emphasis on component reuse, responsive design, and clean UX flows.  
-`React` `Vite` `CSS` `UI/UX`
-
-**[`Data Science · Segmentation & Recommendation`](https://github.com/abhishekh-prajapati/Data_Science_Custom_segmentation_-_Recommendation_System)**  
-Custom segmentation system built on structured datasets. Full data processing + analysis + meaningful output.  
-`Python` `pandas` `sklearn` `ML`
-
-**[`JS Mini Projects`](https://github.com/abhishekh-prajapati/Js-projects)**  
-Logic-first mini builds addressing real-world problems. Structured solutions with edge-case handling.  
-`JavaScript` `DOM` `Vanilla JS`
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🐍 python_projects</h3>
+      <p>A growing collection of Python utilities, scripts, and standalone mini-apps covering automation, CLI tools, and practical problem-solving.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CLI-333333?style=flat-square"/>
+      </p>
+      <a href="https://github.com/abhishekh-prajapati/python_projects">
+        <img src="https://img.shields.io/badge/View_Repo-161b22?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🔷 Python_DSA</h3>
+      <p>Data structures and algorithms implemented in Python. Clean, readable code with comments — great for interview prep and deepening CS fundamentals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DSA-FF6B6B?style=flat-square"/>
+      </p>
+      <a href="https://github.com/abhishekh-prajapati/Python_DSA-">
+        <img src="https://img.shields.io/badge/View_Repo-161b22?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚔️ Hackprep</h3>
+      <p>Hackathon preparation toolkit featuring challenge solutions, project starters, and quick-build templates. Built for speed under pressure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Hackathon-6C3483?style=flat-square"/>
+      </p>
+      <a href="https://github.com/abhishekh-prajapati/Hackprep">
+        <img src="https://img.shields.io/badge/View_Repo-161b22?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🔧 Akhilesh-Mechanics</h3>
+      <p>Production client website for a real mechanics business. Responsive, practical, deployed — a real-world use case with clean React architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Client_Work-3fb950?style=flat-square"/>
+      </p>
+      <a href="https://github.com/abhishekh-prajapati/Akhilesh-Mechanics">
+        <img src="https://img.shields.io/badge/View_Repo-161b22?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `> stats.json`
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekh-prajapati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekh-prajapati&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff"/>
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekh-prajapati&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
----
+<br/>
 
-## `> contact/`
+<img src="https://streak-stats.demolab.com?user=abhishekh-prajapati&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" />
 
-```bash
-$ ls -la ./reach-me/
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekhprajapati61@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishekh-prajapati)
-
-```
-// always open to interesting projects and good conversations
-```
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekh-prajapati&style=flat-square&color=58a6ff&label=profile+views" />
-</p>
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishekh_Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-abhishekhprajapati61-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekhprajapati61@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-abhishekh--prajapati-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekh-prajapati)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+⌨ crafted with logic · deployed with purpose · improved every commit
+```
+
+</div>
