@@ -1,114 +1,116 @@
-# Abhishekh Prajapati
+```
+╔══════════════════════════════════════════════════════╗
+║  Abhishekh Prajapati  //  CS Undergrad · Developer   ║
+╚══════════════════════════════════════════════════════╝
+```
 
-**Computer Science Undergraduate | Developer | Creating Real time systems and software**
-
----
-
-## 👨‍💻 About Me
-
-I am a **Bachelor of Computer Science undergraduate** focused on **software development, UI/UX design, and system-oriented problem solving**.
-
-I build **practical, user-centered applications** using **React.js** and **Python**, prioritizing clean interfaces, structured logic, and real-world usability.
-
----
-
-## 🎯 Current Focus
-
-- Frontend development with **React.js**.
-- Data-driven features using **Python**.
-- UI/UX design and usability.
-- Building deployable projects.
-- Strengthening system design fundamentals.
+```bash
+$ whoami
+> Building real-time systems · React.js · Python · UI/UX
+> Location: India  |  Status: open to collabs & internships
+```
 
 ---
 
-## 🛠 Tech Stack
+## `> about.txt`
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,php" />
-</p>
+CS undergrad focused on **software development, UI/UX design, and system-oriented problem solving**.  
+I build practical, user-centered applications — clean interfaces, structured logic, real-world usability.
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,vue" />
-</p>
-
-### 🧠 Backend & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" />
-</p>
-
-### 🎨 UI / UX & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,canva,adobe" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel" />
-</p>
+```yaml
+currently:  strengthening system design · building deployable projects
+learning:   advanced React patterns · data pipelines · DSA
+open_to:    internships · open source · collaborative builds
+```
 
 ---
 
-## 🚀 What I Build
+## `> stack.sh`
 
-- User-friendly web applications  
-- System-oriented software solutions  
-- Clean, responsive interfaces  
-- Data-supported features  
-- Logic-first, design-balanced projects  
+**Languages**
 
----
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-## 📌 Featured Projects
+**Frontend**
 
-### 🔹 React & UI Project
-Frontend application emphasizing UI/UX and component-based architecture.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- Responsive layout
-- Reusable components
-- Practical user flows
+**Backend & Data**
 
-🔗 Live Demo: 
-📂 Repository:[ React-js UI Project](https://github.com/abhishekh-prajapati/contact_us-React.js)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
----
+**Design & Tools**
 
-### 🔹 Python / Data Project
-Data-focused project working with structured datasets.
-
-- Data processing
-- Analysis workflow
-- Meaningful outputs
-
-📂 Repository: [_Data Science Custtom Segmentation & Recommendation System_](https://github.com/abhishekh-prajapati/Data_Science_Custom_segmentation_-_Recommendation_System)
-
----
-
-### 🔹 System-Oriented Mini Project
-Logic-based solution addressing a defined real-world problem.
-
-- Clear requirements
-- Structured logic
-- Edge-case handling
-
-📂 Repository: [__Mini Projects__](https://github.com/abhishekh-prajapati/Js-projects)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 🔥 GitHub Activity
+## `> projects/`
 
-### 🔹 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=abhishekh-prajapati)
+```
+.
+├── contact_us-React.js      →  UI/UX · component architecture · responsive layout
+├── Data_Science_Custom...   →  segmentation · recommendation · data pipeline
+└── Js-projects              →  vanilla JS · DOM · logic-first mini builds
+```
 
-## 🌐 Connect With Me
+**[`contact_us · React UI`](https://github.com/abhishekh-prajapati/contact_us-React.js)**  
+Frontend application built with React. Emphasis on component reuse, responsive design, and clean UX flows.  
+`React` `Vite` `CSS` `UI/UX`
+
+**[`Data Science · Segmentation & Recommendation`](https://github.com/abhishekh-prajapati/Data_Science_Custom_segmentation_-_Recommendation_System)**  
+Custom segmentation system built on structured datasets. Full data processing + analysis + meaningful output.  
+`Python` `pandas` `sklearn` `ML`
+
+**[`JS Mini Projects`](https://github.com/abhishekh-prajapati/Js-projects)**  
+Logic-first mini builds addressing real-world problems. Structured solutions with edge-case handling.  
+`JavaScript` `DOM` `Vanilla JS`
+
+---
+
+## `> stats.json`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abhishekhprajapati61@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekh-prajapati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhishekh-prajapati&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff"/>
+</p>
+
+---
+
+## `> contact/`
+
+```bash
+$ ls -la ./reach-me/
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekhprajapati61@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishekh-prajapati)
+
+```
+// always open to interesting projects and good conversations
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekh-prajapati&style=flat-square&color=58a6ff&label=profile+views" />
 </p>
