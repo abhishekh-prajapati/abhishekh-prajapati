@@ -1,15 +1,28 @@
-```md id="j3a9vk"
+````md id="0d5x9k"
 <div align="center">
 
 # Abhishekh Prajapati
 
-Full-Stack Developer • React • Next.js • Backend Systems
+### Full-Stack Developer • React • Next.js • Backend Systems
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekhprajapati61@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishekh-prajapati)
+<a href="https://github.com/abhishekh-prajapati">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abhishekhprajapati61@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhishekh-prajapati&style=flat-square&color=EF9F27&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -17,39 +30,42 @@ Full-Stack Developer • React • Next.js • Backend Systems
 
 # Tech Stack
 
+<div align="center">
+
 ## Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css,js,ts&theme=light" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css,js,ts&theme=light" />
+
+<br/>
+<br/>
 
 ## Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,supabase&theme=light" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,supabase&theme=light" />
+
+<br/>
+<br/>
 
 ## Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" />
+
+<br/>
+<br/>
 
 ## Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,linux,vscode,figma&theme=light" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,linux,vscode,figma&theme=light" />
 
-## Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=light" />
-</p>
+</div>
 
 ---
 
 # Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ## Freelance Escrow Platform
 
@@ -61,32 +77,35 @@ Next.js • Node.js • PostgreSQL • Supabase • Render
 ### Features
 - Secure milestone workflow
 - Authentication system
-- Real-time project updates
+- Real-time updates
 - Dashboard & transaction tracking
 
----
+</td>
+
+<td width="50%">
 
 ## HackPrep
 
-Hackathon preparation toolkit with reusable templates and utilities.
+Hackathon toolkit with reusable templates and utilities.
 
 ### Stack
 React • Firebase • TailwindCSS • Node.js
 
 ### Features
 - Boilerplate generation
-- Fast setup workflow
-- Reusable project structure
+- Fast setup workflows
 - Productivity utilities
+- Reusable project structure
 
-🔗 Repo  
-https://github.com/abhishekh-prajapati/Hackprep
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
 ## Python DSA
 
-Collection of optimized data structures and algorithms in Python.
+Optimized implementations of data structures and algorithms.
 
 ### Covered
 - Trees
@@ -94,16 +113,15 @@ Collection of optimized data structures and algorithms in Python.
 - Sorting
 - Searching
 - Recursion
-- Problem solving patterns
+- Problem solving
 
-🔗 Repo  
-https://github.com/abhishekh-prajapati/Python_DSA-
+</td>
 
----
+<td width="50%">
 
 ## React Contact UI
 
-Responsive frontend application with reusable UI components.
+Responsive frontend application with reusable components.
 
 ### Stack
 React • Vite • TailwindCSS
@@ -114,8 +132,9 @@ React • Vite • TailwindCSS
 - Form handling
 - Clean UI structure
 
-🔗 Repo  
-https://github.com/abhishekh-prajapati/contact_us-React.js
+</td>
+</tr>
+</table>
 
 ---
 
@@ -123,13 +142,13 @@ https://github.com/abhishekh-prajapati/contact_us-React.js
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true&hide_border=true&bg_color=ffffff&title_color=EF9F27&icon_color=EF9F27&text_color=444441&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true&hide_border=true&bg_color=ffffff&title_color=EF9F27&icon_color=EF9F27&text_color=444441&border_radius=12"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekh-prajapati&layout=compact&hide_border=true&bg_color=ffffff&title_color=EF9F27&text_color=444441&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekh-prajapati&layout=compact&hide_border=true&bg_color=ffffff&title_color=EF9F27&text_color=444441&border_radius=12"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=abhishekh-prajapati&hide_border=true&background=ffffff&stroke=EF9F27&ring=EF9F27&fire=EF9F27&currStreakLabel=EF9F27&sideLabels=444441&dates=888780&currStreakNum=444441&sideNums=444441&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=abhishekh-prajapati&hide_border=true&background=ffffff&stroke=EF9F27&ring=EF9F27&fire=EF9F27&currStreakLabel=EF9F27&sideLabels=444441&dates=888780&currStreakNum=444441&sideNums=444441&border_radius=12"/>
 
 </div>
 
@@ -137,26 +156,30 @@ https://github.com/abhishekh-prajapati/contact_us-React.js
 
 # Currently Building
 
-- Freelance Escrow Platform
-- Real-time systems
-- Backend API architectures
-- Full-stack hackathon products
+```txt
+• Freelance Escrow Platform
+• Real-time collaboration systems
+• Backend API architectures
+• Full-stack hackathon products
+````
 
 ---
 
-# Connect
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+### Connect With Me
 
-  <a href="mailto:abhishekhprajapati61@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/abhishekh-prajapati">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:abhishekhprajapati61@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhishekh-prajapati">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</div>
 ```
