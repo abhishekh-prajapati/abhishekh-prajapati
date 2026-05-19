@@ -27,7 +27,7 @@
 ```yaml
 name:     Abhishekh Prajapati
 role:     CS Undergrad · Developer
-location: Kalyān, India
+location: Mumbai, India
 focus:    ["React.js", "Python", "UI/UX design", "System design"]
 learning: ["Advanced React", "Data pipelines", "DSA patterns"]
 status:   "Open to internships, freelance & open source"
