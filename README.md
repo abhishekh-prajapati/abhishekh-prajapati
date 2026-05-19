@@ -198,10 +198,6 @@ Connect with me
 ```
 // always open to interesting projects and good conversations
 ```
-## 📈 Contribution Graph
-
-[![Abhishekh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekh-prajapati&theme=tokyo-night&hide_border=true)](https://github.com/abhishekh-prajapati)
-
 ---
 
 <div align="center">
