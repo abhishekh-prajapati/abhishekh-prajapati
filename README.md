@@ -180,7 +180,7 @@ Segmentation and recommendation system on structured datasets — full data proc
 ## `> contact/`
 
 ```bash
-$ ls ./reach-me/
+Connect with me 
 ```
 
 <div align="center">
