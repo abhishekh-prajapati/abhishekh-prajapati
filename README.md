@@ -1,174 +1,125 @@
-````md
-<!-- ======================= HEADER ======================= -->
-
+```md id="j3a9vk"
 <div align="center">
 
-```txt
-╔══════════════════════════════════════════════════════════════╗
-║                 Abhishekh Prajapati                         ║
-║     Full-Stack Developer · Real-Time Systems · APIs         ║
-╚══════════════════════════════════════════════════════════════╝
-````
+# Abhishekh Prajapati
+
+Full-Stack Developer • React • Next.js • Backend Systems
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:abhishekhprajapati61@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/abhishekh-prajapati)
-[![Profile Views](https://komarev.com/ghpvc/?username=abhishekh-prajapati\&style=flat-square\&color=EF9F27\&label=profile+views)](https://github.com/abhishekh-prajapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekhprajapati61@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishekh-prajapati)
 
 </div>
 
 ---
 
-# `> about.ts`
+# Tech Stack
 
-```ts
-const abhishekh = {
-  role: "Full-Stack Developer",
-  location: "Maharashtra, India",
-  focus: [
-    "Full-stack web applications",
-    "Real-time systems",
-    "Backend APIs",
-    "Scalable UI architecture"
-  ],
-  currentlyLearning: [
-    "Advanced backend systems",
-    "System design",
-    "Production architecture"
-  ],
-  openTo: [
-    "Internships",
-    "Freelance projects",
-    "Hackathons",
-    "Open source"
-  ]
-}
-```
+## Frontend
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css,js,ts&theme=light" />
+</p>
 
-# `> core_stack.ts`
+## Backend
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,supabase&theme=light" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,ts,js,python,firebase,supabase,postgres,mysql,tailwind,vite,git,github,vercel,netlify,linux,vscode,figma&theme=light" />
+## Database
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" />
+</p>
 
-<br/>
+## Tools & Platforms
 
-```yaml
-Frontend:
-  - React.js
-  - Next.js
-  - TailwindCSS
-  - Vite
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,linux,vscode,figma&theme=light" />
+</p>
 
-Backend:
-  - Node.js
-  - Express.js
-  - NestJS
-  - Firebase
-  - Supabase
+## Languages
 
-Database:
-  - PostgreSQL
-  - MySQL
-
-Platforms:
-  - Vercel
-  - Netlify
-  - Render
-
-Languages:
-  - JavaScript
-  - TypeScript
-  - Python
-  - C++
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=light" />
+</p>
 
 ---
 
-# `> featured_projects/`
+# Featured Projects
 
-### 🔹 Freelance Escrow Platform
+## Freelance Escrow Platform
 
-> Full-stack escrow workflow platform for freelancers and clients.
+Full-stack escrow workflow platform for freelancers and clients.
 
-**Stack**
-Next.js · Node.js · PostgreSQL · Supabase · Render
+### Stack
+Next.js • Node.js • PostgreSQL • Supabase • Render
 
-**Features**
-
-* Secure milestone workflow
-* Role-based authentication
-* Real-time project updates
-* Dashboard & transaction tracking
+### Features
+- Secure milestone workflow
+- Authentication system
+- Real-time project updates
+- Dashboard & transaction tracking
 
 ---
 
-### 🔹 HackPrep
+## HackPrep
 
-> Hackathon preparation toolkit with reusable templates and development utilities.
+Hackathon preparation toolkit with reusable templates and utilities.
 
-**Stack**
-React · Node.js · Firebase · TailwindCSS
+### Stack
+React • Firebase • TailwindCSS • Node.js
 
-**Features**
+### Features
+- Boilerplate generation
+- Fast setup workflow
+- Reusable project structure
+- Productivity utilities
 
-* Boilerplate generation
-* Productivity templates
-* Fast project setup flows
-* Reusable development patterns
-
-🔗 Repo:
+🔗 Repo  
 https://github.com/abhishekh-prajapati/Hackprep
 
 ---
 
-### 🔹 Python DSA
+## Python DSA
 
-> Data structures and algorithms implemented with optimized Python solutions.
+Collection of optimized data structures and algorithms in Python.
 
-**Stack**
-Python · DSA · Problem Solving
+### Covered
+- Trees
+- Graphs
+- Sorting
+- Searching
+- Recursion
+- Problem solving patterns
 
-**Covered**
-
-* Trees
-* Graphs
-* Searching
-* Sorting
-* Recursion
-* Problem patterns
-
-🔗 Repo:
+🔗 Repo  
 https://github.com/abhishekh-prajapati/Python_DSA-
 
 ---
 
-### 🔹 React Contact UI
+## React Contact UI
 
-> Responsive frontend interface with reusable components and clean UX flows.
+Responsive frontend application with reusable UI components.
 
-**Stack**
-React · Vite · TailwindCSS
+### Stack
+React • Vite • TailwindCSS
 
-**Features**
+### Features
+- Component architecture
+- Responsive layouts
+- Form handling
+- Clean UI structure
 
-* Component architecture
-* Responsive layout
-* Form handling
-* Modern UI structure
-
-🔗 Repo:
+🔗 Repo  
 https://github.com/abhishekh-prajapati/contact_us-React.js
 
 ---
 
-# `> github_stats.json`
+# GitHub Stats
 
 <div align="center">
 
@@ -184,41 +135,28 @@ https://github.com/abhishekh-prajapati/contact_us-React.js
 
 ---
 
-# `> currently_building`
+# Currently Building
 
-```txt
 - Freelance Escrow Platform
-- Real-time collaboration systems
+- Real-time systems
 - Backend API architectures
 - Full-stack hackathon products
-```
 
 ---
 
-# `> contact.sh`
+# Connect
 
-```bash
-$ connect --platforms
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:abhishekhprajapati61@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/abhishekh-prajapati">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 ```
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abhishekhprajapati61@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abhishekh-prajapati)
-
-</div>
-
----
-
-<div align="center">
-
-```txt
-profile · full-stack development · systems · ui engineering
-```
-
-</div>
-```
-
