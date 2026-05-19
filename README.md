@@ -1,107 +1,83 @@
 # Abhishekh Prajapati
-**Computer Science Graduate | Developer | Building real‑time systems and AI‑driven tools**
+**Computer Science Graduate | Developer | AI‑driven tools & real‑time systems**
+
+> 👉 Open to work | Building maintainable, UX‑first software with React, Python, and AI
+
 ---
 
 ## 👨‍💻 About Me
-I am a **Computer Science graduate** with a strong focus on **software development, system design, and AI‑powered tools**.  
-I build **practical, user‑centered applications** using **React.js** and **Python**, prioritizing clean architecture, smooth UX, and deployable solutions.
+I’m a **Computer Science graduate** passionate about **software development, AI‑augmented tools, and system‑oriented solutions**.  
+I focus on **building clean, deployable apps** using **React.js** and **Python**, with attention to UX, performance, and scalability.
 
 ---
 
-## 🎯 Current Focus
-- Building **frontend apps with React.js** and modern tooling.  
-- Designing **data‑driven and AI‑augmented features** using **Python**.  
-- Improving **system design and scalable architecture**.  
-- Creating **real‑time, hackathon‑ready and education‑oriented tools**.
+## 🎯 What I Focus On
+- Building modern **React apps** with clean architecture.  
+- Designing **data‑driven and AI‑powered features** in Python.  
+- Improving **system design and scalable backends**.  
+- Creating **hackathon & education‑oriented tools** (Hackprep, DSA, utilities).
 
 ---
 
 ## 🛠 Tech Stack
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,php" />
-</p>
-### 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,vue" />
-</p>
+### 💻 Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,php)
+
+### 🌐 Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,react,vite,vue,tailwind)
+
 ### 🧠 Backend & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" />
-</p>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,sqlite)
+
+### 🤖 AI / Data Science
+![AI](https://skillicons.dev/icons?i=py,pytorch,pandas,numpy,matplotlib)
+
 ### 🎨 UI / UX & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,canva,adobe" />
-</p>
+![Design](https://skillicons.dev/icons?i=figma,canva,adobe)
+
 ### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel" />
-</p>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,netlify,vercel)
 
 ---
 
 ## 🚀 What I Build
-- User‑friendly web applications  
-- System‑oriented and logic‑heavy mini‑projects  
-- Clean, responsive interfaces  
-- Data‑driven and AI‑augmented features  
-- Hackathon & student‑oriented tooling (e.g., Hackprep, ed‑tech dashboards)
+- Minimal, **user‑first web applications**  
+- **AI‑driven tools** and hackathon simulators (Hackprep)  
+- **DSA & utility repos** for practice and teaching  
+- **Education‑focused web apps** (e.g., Akhilesh‑Mechanics style tools)
 
 ---
 
-## 📌 Featured Projects
+## 🪄 Featured Projects
 
 ### 🔹 Hackprep – AI‑powered hackathon simulator
 Interactive platform that simulates full hackathon lifecycle with AI personas (Organizer, Mentor, Judge).  
-- Problem‑statement generation for multiple tracks  
-- Step‑by‑step guidance with “nudges” instead of direct answers  
+- Auto‑generated problem statements and tracks  
+- Guided workflows with “nudges” instead of direct answers  
 - Automated judging and feedback  
-🔗 Live Demo: `https://hackprep.vercel.app` (or your deploy link)  
+🔗 Live Demo: `https://hackprep.vercel.app`  
 📂 Repository: [Hackprep](https://github.com/abhishekh-prajapati/Hackprep)
 
 ### 🔹 Python_DSA – Data structures & algorithms in Python
-Curated collection of DSA solutions in Python, used for practice and teaching.  
+Curated DSA practice repo in Python, aimed at preparation and teaching.  
 - Common data structures and algorithms  
-- Clean, modular code with comments  
+- Clean, modular, commented code  
 📂 Repository: [Python_DSA](https://github.com/abhishekh-prajapati/Python_DSA-)
 
 ### 🔹 Akhilesh‑Mechanics – Mechanics‑focused web app
-Educational web app for mechanics‑related calculations and visualization (e.g., motion, forces, kinematics).  
-- Step‑wise calculators and diagrams  
-- Student‑friendly UI and explanations  
+Student‑oriented web app for mechanics calculations and visualizations.  
+- Physics‑based calculators and step‑by‑step explanations  
+- Minimal UI, focused on clarity  
 📂 Repository: [Akhilesh‑Mechanics](https://github.com/abhishekh-prajapati/Akhilesh-Mechanics)
-
-### 🔹 React & UI Project (existing)
-Frontend application emphasizing UI/UX and component‑based architecture.  
-- Responsive layout  
-- Reusable components  
-- Practical user flows  
-🔗 Live Demo:  
-📂 Repository: [React‑js UI Project](https://github.com/abhishekh-prajapati/contact_us-React.js)
-
-### 🔹 Python / Data Project (existing)
-Data‑focused project working with structured datasets.  
-- Data processing pipeline  
-- Analysis workflow  
-- Meaningful outputs  
-📂 Repository: [_Data Science Custom Segmentation & Recommendation System_](https://github.com/abhishekh-prajapati/Data_Science_Custom_segmentation_-_Recommendation_System)
-
-### 🔹 System‑Oriented Mini Project
-Logic‑based solution addressing a defined real‑world problem.  
-- Clear requirements  
-- Structured logic  
-- Edge‑case handling  
-📂 Repository: [Mini Projects](https://github.com/abhishekh-prajapati/Js-projects)
 
 ---
 
 ## 🔥 GitHub Activity
-### 🔹 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhishekh-prajapati)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishekh-prajapati-5442b9308/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
