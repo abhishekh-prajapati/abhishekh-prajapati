@@ -198,17 +198,9 @@ Connect with me
 ```
 // always open to interesting projects and good conversations
 ```
-## 📊 GitHub Analytics
+## 📈 Contribution Graph
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekh-prajapati&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekh-prajapati&theme=tokyonight&hide_border=true"/>
-</p>
+[![Abhishekh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekh-prajapati&theme=tokyo-night&hide_border=true)](https://github.com/abhishekh-prajapati)
 
 ---
 
