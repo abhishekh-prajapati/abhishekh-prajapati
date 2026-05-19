@@ -15,9 +15,6 @@
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=abhishekh-prajapati&style=for-the-badge&color=EF9F27&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
