@@ -22,7 +22,7 @@
 
 ---
 
-## `> about.txt`
+## `> about`
 
 ```yaml
 name:     Abhishekh Prajapati
@@ -35,7 +35,7 @@ status:   "Open to internships, freelance & open source"
 
 ---
 
-## `> stack.sh`
+## `> stack`
 
 <div align="center">
 
@@ -146,7 +146,7 @@ Segmentation and recommendation system on structured datasets — full data proc
 
 ---
 
-## `> stats.json`
+## `> stats`
 
 <div align="center">
 
@@ -158,9 +158,6 @@ Segmentation and recommendation system on structured datasets — full data proc
 <img src="https://streak-stats.demolab.com?user=abhishekh-prajapati&hide_border=true&background=ffffff&stroke=EF9F27&ring=EF9F27&fire=EF9F27&currStreakLabel=EF9F27&sideLabels=444441&dates=888780&currStreakNum=444441&sideNums=444441&border_radius=12"/>
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekh-prajapati&bg_color=ffffff&color=444441&line=EF9F27&point=EF9F27&area=true&hide_border=true&border_radius=12"/>
-
 </div>
 
 ---
