@@ -24,11 +24,10 @@
 # ABOUT
 
 ```ts
-const abhishekh = {
-  role: "Full Stack Developer",
-  location: "Mumbai, India",
+  Working as : "Full Stack Developer, Software Developer",
+  Located at: "Mumbai, India",
   focuses: ["Web Apps", "UI/UX", "Realtime Systems"]
-}
+
 ```
 
 ---
