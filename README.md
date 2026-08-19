@@ -126,22 +126,6 @@ Hackathon toolkit with templates, starter kits and rapid MVP workflows.
 
 ---
 
-# GITHUB STATS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekh-prajapati&show_icons=true&theme=transparent&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekh-prajapati&layout=compact&theme=transparent&hide_border=true&title_color=f59e0b&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img width="72%" src="https://streak-stats.demolab.com?user=abhishekh-prajapati&theme=transparent&hide_border=true&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b"/>
-
-</div>
-
----
-
 # CURRENT FOCUS
 
 <div align="center">
@@ -173,8 +157,7 @@ Hackathon toolkit with templates, starter kits and rapid MVP workflows.
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
+</div> 
 <br/>
 
 <div align="center">
